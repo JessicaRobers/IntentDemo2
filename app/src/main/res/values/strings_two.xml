@@ -1,0 +1,6 @@
+<resources>
+    <string name="contentD_waterfall">This is a picture of a waterfall. Blue in color</string>
+    <string name="contentD_supermoon">This is a picture of a supermoon. Red in color</string>
+    <string name="supermoon_ID">superMoon_ID</string>
+    <string name="waterfall_ID">waterfall_ID</string>
+</resources>
